@@ -5,4 +5,4 @@ I have an idea and an approach. I'd like to tokenize AI revision (or morphisms).
 
 Perhaps this could be similar to a registration number to unlock the particular version of the AI/ML  What I am calling their "personalities"
 
-'m thinking to set-up an Image Classifier on Ubuntu with PyTorch.  Off-the shelf.  Use a couple of auto-training or different data sets, and write the hash function of the morphed AI to the chain as an NFT.
+I'm thinking to set-up an Image Classifier on Ubuntu with PyTorch.  Off-the shelf.  Use a couple of auto-training or different data sets, and write the hash function of the morphed AI to the chain as an NFT.
