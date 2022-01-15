@@ -1,7 +1,8 @@
 # nft2022
 A NFT representing "personalities" of AI/ML algorithms based on their training sets and/or morphisms
 
-<img src="AI logo.png" alt=AI/ML Logo"/>
+![AI/ML Logo](/AI Logo.PNG)
+<img src="https://github.com/uniMgmt/nft2022/AI Logo.PNG" alt=AI/ML Logo"/>
 
 
 I have an idea and an approach. I'd like to tokenize AI revision (or morphisms).  Let's say for example you have an ML with better training data or Auto ML.  I'd like to create an NFT for each revision: good or bad, of these AI's.  My initial approach would be to set up a GAN breeder or Image classifier on a Linux box and pipe the changes to the chain as an NFT. 
