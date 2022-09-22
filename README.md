@@ -1,4 +1,4 @@
-# nft2022
+# nft2022: Write the hash function of morphed AI to DLT as NFT
 A NFT representing "personalities" of AI/ML algorithms based on their training sets and/or morphisms
 
 <img src="https://github.com/uniMgmt/nft2022/blob/main/AI%20Logo.PNG" alt="AI/ML Logo"/>
@@ -9,3 +9,5 @@ I have an idea and an approach. I'd like to tokenize AI revision (or morphisms).
 Perhaps this could be similar to a registration number to unlock the particular version of the AI/ML  What I am calling their "personalities"
 
 I'm thinking to set-up an Image Classifier on Ubuntu with PyTorch.  Off-the shelf.  Use a couple of auto-training or different data sets, and write the hash function of the morphed AI to the chain as an NFT.
+
+C.M. Smolen (chris@qedco.io)
